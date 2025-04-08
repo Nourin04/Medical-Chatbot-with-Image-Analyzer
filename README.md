@@ -4,7 +4,7 @@
 
 A powerful AI-powered medical assistant built with **Streamlit** and **GROQ’s LLaMA 3.2 Vision Models**, capable of analyzing uploaded medical images (like X-rays, MRIs) and answering questions related to them.
 
-![banner](https://raw.githubusercontent.com/Nourin04/Medical-Chatbot-with-Image-Analyzer/main/assets/banner.png) <!-- Optional if you want a banner -->
+
 
 ---
 
@@ -22,7 +22,7 @@ A powerful AI-powered medical assistant built with **Streamlit** and **GROQ’s 
 
 ## 📸 Demo
 
-![demo]![Screenshot (94)](https://github.com/user-attachments/assets/6794e0c1-da47-4640-9533-07a200bd1e6f)
+![Screenshot (94)](https://github.com/user-attachments/assets/6794e0c1-da47-4640-9533-07a200bd1e6f)
 ![Screenshot (95)](https://github.com/user-attachments/assets/ce4301d5-7335-4114-94ef-c5f15b8729dc)
 
 
