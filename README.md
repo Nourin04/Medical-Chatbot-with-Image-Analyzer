@@ -1,6 +1,4 @@
-Got it! Let’s upgrade the README with **clean structure**, **rich formatting**, and **developer-friendly sections** — something that's **professional, engaging, and complete**. Here’s a much better version 👇
 
----
 
 # 🧠 AI Doctor: Medical Chatbot with Image Analyzer
 
