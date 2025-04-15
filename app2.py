@@ -72,8 +72,8 @@ if st.button("🚀 Submit"):
         img_str = encode_image(image)
 
         with st.spinner("Analyzing with LLaMA 3.2 models... 🧠"):
-            llama_response = make_api_request(img_str, question, "llama-3.2-11b-vision-preview")
-            llava_response = make_api_request(img_str, question, "llama-3.2-90b-vision-preview")
+            llama_response = make_api_request(img_str, question, "meta-llama/llama-4-scout-17b-16e-instruct")
+            llava_response = make_api_request(img_str, question, "meta-llama/llama-4-scout-17b-16e-instruct")
 
         st.subheader("📸 Uploaded Image")
         st.image(image, use_container_width =True)
