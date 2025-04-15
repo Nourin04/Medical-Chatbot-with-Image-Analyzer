@@ -2,7 +2,7 @@
 
 # 🧠 AI Doctor: Medical Chatbot with Image Analyzer
 
-A powerful AI-powered medical assistant built with **Streamlit** and **GROQ’s LLaMA 3.2 Vision Models**, capable of analyzing uploaded medical images and answering questions related to them.
+A powerful AI-powered medical assistant built with **Streamlit** and **GROQ’s LLaMA 4 Vision Model**, capable of analyzing uploaded medical images and answering questions related to them.
 
 
 
@@ -12,8 +12,7 @@ A powerful AI-powered medical assistant built with **Streamlit** and **GROQ’s 
 
 - 🖼️ Upload medical images (JPG, PNG, JPEG)
 - 💬 Ask custom questions about the image
-- ⚡ Dual responses from:
-  - `meta-llama/llama-4-scout-17b-16e-instruct`
+- ⚡ Responses from:
   - `meta-llama/llama-4-scout-17b-16e-instruct`
 - 📦 Deployment via Streamlit Cloud 
 
