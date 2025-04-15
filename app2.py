@@ -81,11 +81,11 @@ if st.button("🚀 Submit"):
         col1, col2 = st.columns(2)
 
         with col1:
-            st.markdown("### 🤖 Response from `llama-3.2-11b-vision-preview`")
+            st.markdown("### 🤖 Response from `meta-llama/llama-4-scout-17b-16e-instruct`")
             st.markdown(llama_response)
 
         with col2:
-            st.markdown("### 🤖 Response from `llama-3.2-90b-vision-preview`")
+            st.markdown("### 🤖 Response from `meta-llama/llama-4-scout-17b-16e-instruct`")
             st.markdown(llava_response)
 
     else:
