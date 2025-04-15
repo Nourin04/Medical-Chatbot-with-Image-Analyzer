@@ -71,7 +71,7 @@ if st.button("🚀 Submit"):
         image = Image.open(uploaded_image)
         img_str = encode_image(image)
 
-        with st.spinner("Analyzing with LLaMA 3.2 models... 🧠"):
+        with st.spinner("Analyzing with LLaMA 4... 🧠"):
             llama_response = make_api_request(img_str, question, "meta-llama/llama-4-scout-17b-16e-instruct")
             
 
