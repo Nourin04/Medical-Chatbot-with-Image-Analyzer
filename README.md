@@ -13,8 +13,8 @@ A powerful AI-powered medical assistant built with **Streamlit** and **GROQ’s 
 - 🖼️ Upload medical images (JPG, PNG, JPEG)
 - 💬 Ask custom questions about the image
 - ⚡ Dual responses from:
-  - `llama-3.2-11b-vision-preview`
-  - `llama-3.2-90b-vision-preview`
+  - `meta-llama/llama-4-scout-17b-16e-instruct`
+  - `meta-llama/llama-4-scout-17b-16e-instruct`
 - 📦 Deployment via Streamlit Cloud 
 
 ---
