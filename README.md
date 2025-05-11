@@ -20,7 +20,7 @@ A powerful AI-powered medical assistant built with **Streamlit** and **GROQ’s 
 
 ## 📸 Demo
 
-![image](https://github.com/user-attachments/assets/d852f8ab-08df-49b7-a761-c9b9f90769ba)
+![image](https://github.com/user-attachments/assets/c454b981-249b-43f2-b350-63acfa1d7342)
 
 ![Screenshot (95)](https://github.com/user-attachments/assets/ce4301d5-7335-4114-94ef-c5f15b8729dc)
 
