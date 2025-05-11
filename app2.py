@@ -78,7 +78,8 @@ if st.button("🚀 Submit"):
         st.subheader("📸 Uploaded Image")
         st.image(image, use_container_width =True)
 
-        col1 = st.columns(1)
+        col1, = st.columns(1)
+
 
         with col1:
             st.markdown("### 🤖 Response from `meta-llama/llama-4-scout-17b-16e-instruct`")
