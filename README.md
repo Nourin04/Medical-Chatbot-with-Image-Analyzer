@@ -22,7 +22,10 @@ A powerful AI-powered medical assistant built with **Streamlit** and **GROQ’s 
 
 ![image](https://github.com/user-attachments/assets/c454b981-249b-43f2-b350-63acfa1d7342)
 
-![Screenshot (95)](https://github.com/user-attachments/assets/ce4301d5-7335-4114-94ef-c5f15b8729dc)
+![image](https://github.com/user-attachments/assets/e748f4c1-3d39-46ba-b441-2bf9c235c84e)
+
+![image](https://github.com/user-attachments/assets/683c3450-4cdd-4dd3-b943-bf83c7f3537f)
+
 
 
 Deployed link: https://medical-chatbot-new.streamlit.app/
